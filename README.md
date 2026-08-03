@@ -55,4 +55,19 @@ topics/
 inbox/                  # 尚未进入正式选题池的线索
 ```
 
-下一步将逐步补齐研究模板、信源模板、事实核验表、风险检查表、母稿模板、平台包装模板及发布复盘模板。
+## 快速入口
+
+- [编辑与选题规范](docs/editorial-standards.md)
+- [研究与信源规范](docs/research-and-sources.md)
+- [从线索到发布的工作流](docs/workflow.md)
+- [给 GPT 的资料交接与写作约束](docs/gpt-handoff.md)
+- [线索卡模板](inbox/README.md)
+- [完整题材目录模板](topics/_template/README.md)
+
+## 待确认
+
+以下偏好尚未锁定，不会被当前模板擅自视为定论：
+
+- 常规长视频的最终目标时长；
+- 全程旁白、真人出镜或混合呈现；
+- YouTube 首期采用简体、繁体或英文字幕的组合。
