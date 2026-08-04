@@ -13,8 +13,13 @@
 | S007 | SEC执法汇编 | SEC v. Robert L. Citron and Matthew R. Raabe, LR-14792 / LR-14913 | 1996 | https://www.sec.gov/enforcement-litigation/reports-investigations/municipal-bond-participants-public-officials | Citron、Raabe、评级机构与最终禁令 |
 | S008 | 同期报道 | Los Angeles Times, Orange County Picks Moorlach as Treasurer | 1995-03-18 | https://www.latimes.com/archives/la-xpm-1995-03-18-mn-44112-story.html | Moorlach竞选警告、落选与任命 |
 | S009 | SEC行政命令 | In re Merrill Lynch, Release 33-7566 / 34-40352 | 1998-08-24 | https://www.sec.gov/info/municipal/mbonds/uwriter.htm | Merrill与橙县的销售、警告、承销和处分 |
+| S010 | 联储地区经济研究 | Carolyn Sherwood-Call, “What's Happening to Southern California?”, FRBSF Weekly Letter 92-29 | 1992-08-21 | https://www.frbsf.org/wp-content/uploads/el92-29.pdf | 90年代初南加州衰退、军工与房地产背景、橙县就业损失 |
+| S011 | 公共政策研究 | PPIC, *When Government Fails: The Orange County Bankruptcy — A Policy Summary* | 1998-03-18 | https://www.ppic.org/wp-content/uploads/content/pubs/op/OP_398OP.pdf | 13号提案后地方财政约束、利息收入依赖与州税收分配削减 |
+| S012 | 联储官方历史数据 | Federal Reserve Board, Open Market Operations Archive | 2013更新 | https://www.federalreserve.gov/monetarypolicy/openmarket_archive.htm | 1994年六次加息的日期、幅度与目标利率 |
+| S013 | SEC官方演讲 | Present and Future Reform of the Municipal Securities Market | 1995-02-07 | https://www.sec.gov/news/speech/speecharchive/1995/spch028.txt | “当时美国史上最大市政破产”口径 |
+| S014 | 阿纳海姆市政府历史页 | Anaheim: The 1950s—1980s | 当前页面 | https://www.anaheim.net/156/The-1950s---1980s | Disneyland位于Anaheim的地理识别点 |
 
-访问日期：2026-08-03。仅记录链接、最小摘录和页码/段落定位。
+访问日期：S001—S009为2026-08-03；S010—S014为2026-08-04。仅记录链接、最小摘录和页码/段落定位。
 
 ## 关键来源卡片
 
@@ -65,3 +70,29 @@
 - S005定位正文¶¶12—14：加息的五重影响、破产、清算、约22.3%损失率。
 - S006正文首段：2017-07-01最终支付及其破产恢复债券范围。
 
+### S010｜南加州衰退背景
+
+- **支持：** C030
+- **定位：** PDF p.1：橙县自就业峰值起损失8.7万个岗位、降幅7.1%；pp.1—2：全国衰退、国防削减、房地产问题共同导致南加州经济恶化。
+- **必要摘录：** “Orange County has lost 87,000 of its jobs, a decline of 7.1 percent.”
+- **翻译：** 橙县损失了8.7万个工作岗位，降幅为7.1%。
+- **边界：** 该材料发表于1992年，只用于说明破产前的地区经济环境，不把衰退写成破产的单一原因。
+
+### S011｜PPIC地方财政复盘
+
+- **支持：** C031
+- **定位：** PDF pp.2—3：FY94利息收入占橙县收入12%，其他加州县为3%，并说明13号提案余波与州政府削减地方税收分配的背景；pp.9—10：地方增税约束和州财政紧缩。
+- **必要摘录：** “In FY94, interest amounted to 12 percent of revenue for Orange County—in contrast to 3 percent for all other California counties.”
+- **翻译：** 1994财年，利息约占橙县收入12%；其他加州县约为3%。
+- **边界：** 这是事后政策研究，不据此断言13号提案单独导致Citron采用该策略。
+
+### S012｜1994年联储加息记录
+
+- **支持：** C033
+- **定位：** 网页“1994”表：2月4日、3月22日、4月18日各加25个基点；5月17日、8月16日各加50个基点；11月15日加75个基点，目标利率升至5.50%。1992年9月4日表中此前水平为3.00%。
+- **翻译：** 1994年共六次上调，联邦基金目标利率由3%升至5.5%。
+
+### S013—S014｜破产量级与观众地理锚点
+
+- S013 lines 64—71：1994-12-06的Chapter 9申请启动了“当时美国史上最大市政破产”；只采用“当时”限定。
+- S014正文：Disneyland在Anaheim；仅用于帮助观众建立橙县地理与知名度，不承担破产机制证明。

@@ -51,6 +51,8 @@
 
 ```text
 docs/                   # 项目规范、工作流与 GPT 使用约束
+skills/                 # 项目研究与写作 skill
+scripts/                # 证据闭环与口播可读性审计
 topics/
   _template/            # 单个题材的标准目录模板
   active/               # 正在研究和制作的题材
@@ -63,7 +65,10 @@ inbox/                  # 尚未进入正式选题池的线索
 - [编辑与选题规范](docs/editorial-standards.md)
 - [研究与信源规范](docs/research-and-sources.md)
 - [从线索到发布的工作流](docs/workflow.md)
+- [资本故事叙事生产规约](docs/narrative-production-standard.md)
 - [给 GPT 的资料交接与写作约束](docs/gpt-handoff.md)
+- [研究建档 skill](skills/research-capital-story/SKILL.md)
+- [母稿与口播 skill](skills/write-capital-story/SKILL.md)
 - [权利与使用声明](LICENSE)
 - [线索卡模板](inbox/README.md)
 - [完整题材目录模板](topics/_template/README.md)

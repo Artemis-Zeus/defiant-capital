@@ -50,6 +50,7 @@ README.md                    # 题材总览和状态
 08-publish-review.md         # 发布记录、质疑、纠错与复盘
 script/
   master.md                  # B站 / YouTube 共用母稿
+  voiceover.md               # 主播实际朗读净稿
   platform-packages.md       # B站、YouTube、抖音包装
 ```
 
@@ -61,6 +62,7 @@ script/
 - [ ] 争议与证据空白已列出
 - [ ] 故事结构已绑定 `C###` 主张编号
 - [ ] 母稿完成事实审计
+- [ ] 实际口播稿完成并通过实录朗读
 - [ ] 风险复核完成
 - [ ] 视觉链接与版权状态已登记
 - [ ] 平台包装完成
