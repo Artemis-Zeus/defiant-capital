@@ -18,8 +18,23 @@
 | S012 | 联储官方历史数据 | Federal Reserve Board, Open Market Operations Archive | 2013更新 | https://www.federalreserve.gov/monetarypolicy/openmarket_archive.htm | 1994年六次加息的日期、幅度与目标利率 |
 | S013 | SEC官方演讲 | Present and Future Reform of the Municipal Securities Market | 1995-02-07 | https://www.sec.gov/news/speech/speecharchive/1995/spch028.txt | “当时美国史上最大市政破产”口径 |
 | S014 | 阿纳海姆市政府历史页 | Anaheim: The 1950s—1980s | 当前页面 | https://www.anaheim.net/156/The-1950s---1980s | Disneyland位于Anaheim的地理识别点 |
+| S015 | 美联储历史 | Recession of 1981–82 | 2013-11-22 | https://www.federalreservehistory.org/essays/recession-of-1981-82 | 沃尔克紧缩、通胀回落、失业率接近11%及1982年复苏 |
+| S016 | 美联储历史 | Depository Institutions Deregulation and Monetary Control Act of 1980 | 2013-11-22 | https://www.federalreservehistory.org/essays/monetary-control-act-of-1980 | 货币市场基金竞争与存款利率上限逐步取消 |
+| S017 | 美联储历史 | Garn-St Germain Depository Institutions Act of 1982 | 2013-11-22 | https://www.federalreservehistory.org/essays/garn-st-germain-act | 1982年进一步放松储贷机构业务限制 |
+| S018 | 里根总统图书馆 | Remarks on Signing the Economic Recovery Tax Act of 1981；Message Transmitting the FY1983 Budget | 1981-08-13；1982-02-08 | https://www.reaganlibrary.gov/archives/speech/remarks-signing-economic-recovery-tax-act-1981-and-omnibus-budget-reconciliation；https://www.reaganlibrary.gov/archives/speech/message-congress-transmitting-fiscal-year-1983-budget | 1981年减税政策与里根政府国防扩张的政策口径 |
+| S019 | 加州立法分析办公室 | Common Claims About Proposition 13 | 2016-09-19 | https://lao.ca.gov/publications/report/3497 | 1%税率上限、评估值年增幅限制与通过后财产税收入下降 |
+| S020 | 《洛杉矶时报》 | Campeau's Retail Empire Files for Bankruptcy | 1990-01-16 | https://www.latimes.com/archives/la-xpm-1990-01-16-mn-254-story.html | Allied、Federated收购规模、垃圾债券融资与1990年破产 |
+| S021 | Robert L. Citron提交美国参议院银行委员会的书面陈述 | Statement of Robert L. Citron | 1995-01-17 | https://www.sechistorical.org/collection/papers/1990/1995_0117_StatementCitron.pdf | 西特龙教育、职业经历、1970年当选、1973年接管投资及无正规投资经验 |
+| S022 | 《洛杉矶时报》 | The Man Behind the Orange County Debacle | 1994-12-18 | https://www.latimes.com/archives/la-xpm-1994-12-18-mn-10460-story.html | 西特龙履历、催税标语、银行缴税及主动压缩部门预算 |
+| S023 | 《洛杉矶时报》 | County Faces $20-Million Budget Shortfall | 1990-05-09 | https://www.latimes.com/archives/la-xpm-1990-05-09-me-140-story.html | 1990年春预算缺口、医疗拨款风险及不足1400万美元储备 |
+| S024 | 《洛杉矶时报》 | O.C. Budget Deficit Put at More Than $46 Million | 1990-08-01 | https://www.latimes.com/archives/la-xpm-1990-08-01-me-1578-story.html | 1990年夏预计缺口超过4600万美元 |
+| S025 | 《洛杉矶时报》 | O.C. Budget Calls for First Layoffs Since Proposition 13 | 1991-08-28 | https://www.latimes.com/archives/la-xpm-1991-08-28-mn-1236-story.html | 37亿美元预算、6770万美元缺口、260个岗位及68名实际裁员 |
+| S026 | 奥兰治县财税官办公室 | Financial Statements and Investment Report for FY1990–91 | 1991-08-28 | https://sechistorical.org/wp-content/uploads/1991_0828_FinancialOrange.pdf | 投资池收益率8.856%，同期州投资池8.02% |
+| S027 | NBER商业周期测定委员会 | Business Cycle Dating Committee Announcement | 1991-04-25 | https://www.nber.org/news/business-cycle-dating-committee-announcement-april-25-1991 | 1990年衰退起点为1990年7月 |
+| S028 | 美联储 | Historical Changes of the Target Federal Funds and Discount Rates | 历史表 | https://www.federalreserve.gov/foia/files/20190829-changes-intended-federal-funds-rate.pdf | 1988—1989年联邦基金目标利率上调记录 |
+| S029 | 《洛杉矶时报》 | State's Economy Staggered in 1990 | 1991-02-18 | https://www.latimes.com/archives/la-xpm-1991-02-18-mn-1193-story.html | 1990年加州住房开工、南加州建筑业和航空航天业岗位变化 |
 
-访问日期：S001—S009为2026-08-03；S010—S014为2026-08-04。仅记录链接、最小摘录和页码/段落定位。
+访问日期：S001—S009为2026-08-03；S010—S014为2026-08-04；S015—S029为2026-08-13。仅记录链接、最小摘录和页码/段落定位。
 
 ## 关键来源卡片
 
@@ -96,3 +111,21 @@
 
 - S013 lines 64—71：1994-12-06的Chapter 9申请启动了“当时美国史上最大市政破产”；只采用“当时”限定。
 - S014正文：Disneyland在Anaheim；仅用于帮助观众建立橙县地理与知名度，不承担破产机制证明。
+
+### S015—S020｜70年代滞胀、80年代复苏与杠杆样本
+
+- S015支持沃尔克紧缩造成的衰退、失业率在1982年底接近11%、通胀回落和随后复苏；正文只写多重因素共同作用，不把复苏归功于单一政策。
+- S016—S017支持存款利率上限逐步取消和储贷机构业务范围放松。正文把它写成信贷环境变化，不写成“放松管制必然带来繁荣”。
+- S018只证明减税和国防扩张确为当时政策方向；“增加需求”属于宏观机制概括，不使用单因果口径。
+- S019支持13号提案的1%税率上限和评估值增幅限制。没有可靠材料证明危机期间“大量选民干脆不交税”，该说法不入稿。
+- S020支持Robert Campeau以36亿美元、66亿美元先后收购Allied与Federated，并以垃圾债券等债务融资；两家公司于1990年1月申请破产保护。Campeau只作为杠杆时代的横向样本，不写成美国衰退或橙县财政危机的原因。
+
+### S021—S027｜西特龙履历与1990—1991年财政转折
+
+- S021是西特龙本人事后提交的书面陈述，用于教育、任职和早期投资经验；涉及责任评价时不把自述当作独立裁判。
+- S022与S021交叉支持其分期缴税、附近银行缴税、催税标语和压缩部门预算等行政形象。
+- S023—S025分别支持1990年春、1990年夏和1991年预算节点；“37亿美元不能随意挪用”只作公共预算结构解释，不把总预算与一般基金缺口直接相减。
+- S026支持1990—91财年8.856%与州投资池8.02%的同期比较，差值0.836个百分点为算术结果。
+- S027只用于确定全国衰退起点；南加州和橙县复苏滞后的事实仍由S010支持。
+- S028只支持80年代末利率方向变化；不把加息写成1990年衰退的单一原因。
+- S029支持1990年加州新建住宅约下降31%、南加州建筑业减少约3万个岗位、加州航空航天业减少约2万个岗位；这些均为同期估算口径。
