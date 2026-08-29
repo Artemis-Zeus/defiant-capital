@@ -10,7 +10,7 @@
 - 主要人物：Robert L. Citron；Matthew R. Raabe；John M. W. Moorlach
 - 主要机构：Orange County、县资金池、约190家公共机构、Orange County Board of Supervisors、Merrill Lynch、SEC、加州审计局
 - 结局：1994-12-06申请Chapter 9；约17亿美元已实现损失；2017年偿清破产恢复相关债券
-- 拟定时长：20—23分钟
+- 拟定时长：长视频第一幕扩写后待实录校准（不再强压20—23分钟）；另规划抖音主站5—8分钟独立成片
 
 ## 一句话钩子
 

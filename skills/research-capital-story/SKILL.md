@@ -5,7 +5,7 @@ description: Research and evidence-map a Defiant Capital topic before outlining 
 
 # Research a capital story
 
-Read `AGENTS.md`, `docs/project-spec.md`, `docs/research-and-sources.md`, and `docs/narrative-production-standard.md`. Then read the target topic directory completely.
+Read `AGENTS.md`, `docs/project-spec.md`, `docs/research-and-sources.md`, `docs/source-collection-standard.md`, and `docs/narrative-production-standard.md`. Then read the target topic directory completely.
 
 ## Workflow
 

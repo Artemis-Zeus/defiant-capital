@@ -18,7 +18,7 @@
 
 ## 阶段 2：研究建档
 
-按`skills/research-capital-story/SKILL.md`完成题材概览、角色关系、时间线、研究问题、来源表与事实表。研究阶段允许保留互相冲突的材料，但必须分别标注。
+按`skills/research-capital-story/SKILL.md`完成题材概览、角色关系、时间线、研究问题、来源表与事实表；史料的收集范围、渠道、验证与标注按`docs/source-collection-standard.md`执行。研究阶段允许保留互相冲突的材料，但必须分别标注。
 
 除“发生了什么”外，核心人物必须记录：身份与资源、目标与激励、当时所知、可选方案、实际行动、后果与关系反转。题材必须建立实体、时代、数字和选择四种观众参照。
 
@@ -44,7 +44,7 @@
 
 ## 阶段 4：母稿撰写
 
-B 站与 YouTube 共用 `script/master.md`。正文保持平台中性，平台称呼、关注引导和相关推荐放入包装文件。
+B 站、YouTube 与抖音精选共用 `script/master.md`（长视频编辑母稿；规约中“母稿”默认指此文件）。正文保持平台中性，平台称呼、关注引导和相关推荐放入包装文件。
 
 `master.md`是带`[C###]`标记和法律边界的编辑母稿。完成事实审计后另建`script/voiceover.md`，只保留主播实际朗读内容；不能用净稿覆盖母稿。
 
@@ -72,7 +72,7 @@ python3 scripts/audit_voiceover.py topics/active/<slug>/script/voiceover.md
 
 ## 阶段 6：平台包装与视觉计划
 
-分别完成 B 站、YouTube、抖音包装；视觉素材只登记链接、用途和版权状态，不上传媒体文件。
+分别完成 B 站、YouTube、抖音主站包装（抖音按 `douyin-standard.md` 执行）；视觉素材只登记链接、用途和版权状态，不上传媒体文件。
 
 ## 阶段 7：发布与归档
 

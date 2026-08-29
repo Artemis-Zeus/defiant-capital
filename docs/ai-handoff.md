@@ -1,11 +1,11 @@
-# 给 GPT 的资料交接与写作约束
+# 给 AI 模型的资料交接与写作约束
 
 ## 1. 推荐输入顺序
 
-向 GPT 提供一个题材时，按以下顺序输入：
+向 AI 模型提供一个题材时，按以下顺序输入：
 
 1. 本文件和 `docs/editorial-standards.md`；
-2. `docs/narrative-production-standard.md`与对应项目skill；
+2. `docs/narrative-production-standard.md`与对应项目skill；研究任务加读 `docs/source-collection-standard.md`；涉及抖音主站成片时加读 `docs/douyin-standard.md`；
 3. 题材目录中的 `README.md`；
 4. `01-brief.md`与`02-timeline.md`；
 5. `04-claims.md`；
@@ -40,7 +40,7 @@
 6. 对照事实表逐句审计；
 7. 另存并转换为实际口播稿；
 8. 实录朗读，调整节奏、幽默和口语化；
-9. 生成平台包装与抖音引流稿。
+9. 生成平台包装与抖音主站成片文案（按 `docs/douyin-standard.md` 执行）。
 
 ## 4. 母稿输出格式
 
@@ -72,7 +72,7 @@
 ```text
 你正在为“逆天的资本”撰写长视频编辑母稿和实际口播稿。
 目标风格：悬念故事为骨架，资本机制为内核，克制的黑色幽默为调味。
-B 站与 YouTube 共用正文，因此不要使用平台专属称呼。
+B 站、YouTube 与抖音精选共用正文，因此不要使用平台专属称呼。
 只使用给定资料；关键事实保留 [Cxxx]；争议内容明确归因；证据不足处标记 [需要核验]。
 按主角连续选择组织章节；先输出章节结构、人物动作、局面变化、章末问题与对应事实编号，再写带证据母稿；事实审计完成后另写口播净稿。
 ```

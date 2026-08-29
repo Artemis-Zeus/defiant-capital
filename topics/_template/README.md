@@ -49,9 +49,10 @@ README.md                    # 题材总览和状态
 07-risk-review.md            # 法律、伦理与表述检查
 08-publish-review.md         # 发布记录、质疑、纠错与复盘
 script/
-  master.md                  # B站 / YouTube 共用母稿
+  master.md                  # B站 / YouTube / 抖音精选 共用长视频母稿
   voiceover.md               # 主播实际朗读净稿
-  platform-packages.md       # B站、YouTube、抖音包装
+  douyin.md                  # 抖音主站成片文案（5—8分钟一集）
+  platform-packages.md       # B站、YouTube、抖音主站包装
 ```
 
 ## 阶段门禁
@@ -65,6 +66,7 @@ script/
 - [ ] 实际口播稿完成并通过实录朗读
 - [ ] 风险复核完成
 - [ ] 视觉链接与版权状态已登记
+- [ ] 抖音主站成片通过 `docs/douyin-standard.md` 门禁清单
 - [ ] 平台包装完成
 - [ ] 最终链接和复盘已记录
 

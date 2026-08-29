@@ -1,6 +1,6 @@
 # 逆天的资本（Defiant Capital）
 
-面向 B 站为主、YouTube 为辅、抖音负责引流的“离谱资本故事”知识库。
+面向 B 站为主、YouTube 为辅、抖音精选长视频与抖音主站独立成片并行分发的“离谱资本故事”知识库。
 
 本仓库覆盖从线索收集、事实考证、选题策划、长视频文案，到发布复盘的完整内容生产流程。核心题材包括：
 
@@ -40,9 +40,9 @@
 ## 内容生产
 
 - 每个正式题材使用一个独立完整目录。
-- B 站与 YouTube 共用一份平台中性的长视频母稿。
+- B 站、YouTube 与抖音精选共用一份平台中性的长视频母稿。
 - 两个平台分别维护标题、封面/缩略图、简介、章节、字幕和平台口播等包装内容。
-- 抖音独立制作 3–5 条可单独理解、带有悬念缺口的引流短稿。
+- 抖音主站独立成片：一个故事一集（5—8分钟）讲完，不拆分多集；规约见《抖音主站内容规约》。
 - 长视频默认规划为 20–40 分钟；故事需要时可自然延长并分章。
 - 成片采用全程旁白、不露脸的呈现方式。
 - YouTube 首期仅制作简体中文字幕。
@@ -50,7 +50,7 @@
 ## 仓库结构
 
 ```text
-docs/                   # 项目规范、工作流与 GPT 使用约束
+docs/                   # 项目规范、工作流与 AI 使用约束
 skills/                 # 项目研究与写作 skill
 scripts/                # 证据闭环与口播可读性审计
 topics/
@@ -64,9 +64,11 @@ inbox/                  # 尚未进入正式选题池的线索
 
 - [编辑与选题规范](docs/editorial-standards.md)
 - [研究与信源规范](docs/research-and-sources.md)
+- [史料收集规约](docs/source-collection-standard.md)
 - [从线索到发布的工作流](docs/workflow.md)
 - [资本故事叙事生产规约](docs/narrative-production-standard.md)
-- [给 GPT 的资料交接与写作约束](docs/gpt-handoff.md)
+- [抖音主站内容规约](docs/douyin-standard.md)
+- [给 AI 模型的资料交接与写作约束](docs/ai-handoff.md)
 - [研究建档 skill](skills/research-capital-story/SKILL.md)
 - [母稿与口播 skill](skills/write-capital-story/SKILL.md)
 - [权利与使用声明](LICENSE)
