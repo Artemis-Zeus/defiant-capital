@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "390b39587ef4d2a1045cf3e5b0de88f222131f17",
+  "prompts": {},
+  "humans": {
+    "h_8ab595eba4f02e": {
+      "author": "huangxiaonan.10 <huangxiaonan.10@jd.com>"
+    }
+  }
+}
