@@ -5,7 +5,7 @@
 ## 开始任务前
 
 1. 先阅读 `README.md` 与 `docs/project-spec.md`。
-2. 研究或写作任务再阅读 `docs/narrative-production-standard.md`；研究任务加读 `docs/source-collection-standard.md`；研究建档使用 `skills/research-capital-story/SKILL.md`，结构、母稿或口播使用 `skills/write-capital-story/SKILL.md`。
+2. 研究或写作任务再阅读 `docs/narrative-production-standard.md`；研究任务加读 `docs/source-collection-standard.md`；研究建档使用 `skills/research-capital-story/SKILL.md`，结构、口播稿使用 `skills/write-capital-story/SKILL.md`，观感评估使用 `skills/viewer-experience-review/SKILL.md`。
 3. 若任务针对具体题材，再完整阅读该题材目录内的 brief、timeline、sources、claims、risk-review 和已有 script。
 4. 不要把仓库中不存在的信息当作事实；需要新事实时，先研究、建来源记录并更新证据矩阵。
 5. 保留用户已有内容和未完成笔记，不擅自删除或重写与本任务无关的资料。
@@ -36,7 +36,8 @@
 - 陌生地点、机构和金额首次承担戏剧功能前，补齐“是什么、体量多大、当时为何重要”的最小参照系。
 - 背景和机制只有在改变人物选择或帮助观众判断分量时进入正文。
 - 可以调整叙事顺序，但不能改变事实的因果关系和已知时间顺序。
-- `script/master.md`为编辑母稿，重要事实保留`[C###]`；`script/voiceover.md`为朗读净稿。两者版本同步，净稿不得覆盖审校稿。
+- 每个题材只维护两层正文：架构稿（`05-story-outline.md`，章节结构与事实绑定`C###`先在此确认）与口播稿（`script/master.md`，纯净旁白）。口播稿正文不出现编号，各章末以引用块列出来源名称（站点/书籍/报道/期刊名＋年份），不写URL。
+- 每个题材建立镜头文档`script/shots.md`：以口播段落为锚逐镜登记画面与屏幕文字；旁白刻意省略的参照系由镜头承接；口播＋镜头组合的观感评估使用`skills/viewer-experience-review/SKILL.md`。
 - 平台专属标题、简介、口播和互动文案放在 `script/platform-packages.md`，不要混入母稿正文。
 - 抖音主站成片遵循 `docs/douyin-standard.md`：一个故事一集讲完（5—8分钟），能独立理解，悬念当集闭环，不拆分多集，不制造虚假断点。
 

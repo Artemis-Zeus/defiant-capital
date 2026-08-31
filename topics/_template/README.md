@@ -44,14 +44,14 @@ README.md                    # 题材总览和状态
 02-timeline.md               # 人物、机构和事件时间线
 03-sources.md                # 信源卡片、外文原文与翻译
 04-claims.md                 # 事实主张—证据矩阵
-05-story-outline.md          # 故事结构、反转与机制解释
+05-story-outline.md          # 架构稿：故事结构、反转与机制解释（绑定C###）
 06-visual-assets.md          # 画面链接、用途与版权状态
 07-risk-review.md            # 法律、伦理与表述检查
 08-publish-review.md         # 发布记录、质疑、纠错与复盘
 script/
-  master.md                  # B站 / YouTube / 抖音精选 共用长视频母稿
-  voiceover.md               # 主播实际朗读净稿
-  douyin.md                  # 抖音主站成片文案（5—8分钟一集）
+  master.md                  # 长视频口播稿（B站/YouTube/抖音精选共用，章末附来源引用）
+  douyin.md                  # 抖音主站成片口播稿（5—8分钟一集）
+  shots.md                   # 镜头文档：与口播稿逐段对齐的画面与字幕卡登记
   platform-packages.md       # B站、YouTube、抖音主站包装
 ```
 

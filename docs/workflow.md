@@ -44,11 +44,9 @@
 
 ## 阶段 4：母稿撰写
 
-B 站、YouTube 与抖音精选共用 `script/master.md`（长视频编辑母稿；规约中“母稿”默认指此文件）。正文保持平台中性，平台称呼、关注引导和相关推荐放入包装文件。
+B 站、YouTube 与抖音精选共用 `script/master.md`（长视频口播稿）。章节结构、信息释放顺序与事实绑定先在架构稿`05-story-outline.md`确认；口播稿正文保持平台中性，各章末以引用块列出本章来源名称（不写编号与URL），平台称呼、关注引导和相关推荐放入包装文件。
 
-`master.md`是带`[C###]`标记和法律边界的编辑母稿。完成事实审计后另建`script/voiceover.md`，只保留主播实际朗读内容；不能用净稿覆盖母稿。
-
-写作时不得：
+口播稿写作不得：
 
 - 补写来源中不存在的心理活动、对话或因果；
 - 为了顺畅而合并不同时间发生的事件，却不加说明；
@@ -65,14 +63,14 @@ B 站、YouTube 与抖音精选共用 `script/master.md`（长视频编辑母稿
 
 ```bash
 python3 scripts/audit_claims.py topics/active/<slug>
-python3 scripts/audit_voiceover.py topics/active/<slug>/script/voiceover.md
+python3 scripts/audit_voiceover.py topics/active/<slug>/script/master.md
 ```
 
 编号闭合失败属于阻塞项；句长、报告腔和数字密度只作为实录朗读前的编辑警报。
 
 ## 阶段 6：平台包装与视觉计划
 
-分别完成 B 站、YouTube、抖音主站包装（抖音按 `douyin-standard.md` 执行）；视觉素材只登记链接、用途和版权状态，不上传媒体文件。
+分别完成 B 站、YouTube、抖音主站包装（抖音按 `douyin-standard.md` 执行）；建立镜头文档`script/shots.md`并与口播稿逐段对齐；视觉素材只登记链接、用途和版权状态，不上传媒体文件。
 
 ## 阶段 7：发布与归档
 
