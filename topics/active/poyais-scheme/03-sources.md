@@ -1,6 +1,6 @@
 # 信源与证据记录
 
-访问日期：首轮建档 2026-08-03；本轮系统性收集 2026-08-29。按《史料收集规约》V1.0 执行：收集即建卡、逐项记录摘录与定位、登记独立性与版权状态。现代版权材料只保存链接、必要摘录和定位。
+访问日期：首轮建档 2026-08-03；系统性收集 2026-08-29；补证与纠错 2026-08-31。按《史料收集规约》V1.0 执行：收集即建卡、逐项记录摘录与定位、登记独立性与版权状态。现代版权材料只保存链接、必要摘录和定位。
 
 ## 来源索引
 
@@ -18,12 +18,17 @@
 | S010 | 档案原件（经论文转录）/最高 | Grant of Land by George Frederic | Lloyds Banking Group Archives, NRAS945/20/19/72 | 1820-04-29 | 无公开链接；转录见 S002 注释 | 档案原件转录 | 土地授予的存在、范围与"不含主权让渡"条款 |
 | S011 | 同期报道/最高（经论文转引） | The Times 关键报道两则 | The Times | 1823-06-09；1823-09-01 | Times 档案付费墙；转引见 S002 注释 | 原创报道（本文库经由 S002 转录访问） | Lloyd's 通讯与"没有 Poyais 海与城市"公开陈述 |
 | S012 | 政府档案（元数据）/最高 | 殖民部与相关政府档案组 | TNA CO 123/34、CO 123/35、CO 137/152；RCSL GBR/0115/RCMS 270/46_41；BSRAS R3_03 | 1821—1824 | 无公开链接；定位见 S002 注释 | 档案原件（经由 S002 转引） | 殖民部知悉时点、国王撤销公告、请愿无回应 |
-| S013 | 当事人自述/一手 | Exposición documentada que el General Mac-Gregor dirijió al Gobierno de Venezuela | Gregor MacGregor | 1839 | 公开数字化版本待补（S002 书目登记为 Caracas, 1839） | 当事人自述 | 主角对自身履历与诉求的官方陈述；只证"其声称" |
+| S013 | 当事人自述/一手 | Exposición documentada que el General Mac-Gregor dirijió al Gobierno de Venezuela | Gregor MacGregor | 1839 | http://www.banrepcultural.org/blaavirtual/ciencia-militar/exposicion-documentada-que-el-general-mac-gregor-dirijio-al-gobierno-de-venezuela （S002 参考文献所列数字化地址） | 当事人自述 | 主角对自身履历与诉求的官方陈述；只证"其声称" |
 | S014 | 官方调查汇编/最高（未数字化） | Proceedings of an Inquiry and Investigation, instituted by Major-General Codd…relative to Poyais | Edward Codd, London: Lawler and Quick | 1824 | 暂无公开扫描；Crouch Rare Books 藏品页 https://crouchrarebooks.com/zh-hans/browse/inquiry-in-the-poyasian-fraud/ ；Google Books 条目 id=7kuEtAEACAAJ（仅元数据） | 缺口登记 | Belize 官方调查程序全文；本轮未获取 |
-| S015 | 同期评论/高（方向待核） | "Sketch of the Mosquito Shore"，Quarterly Review, XXVIII | Quarterly Review（与 John Murray 圈子相关） | 1822-10 | pp.157—161；相关小册子：Verax, "A Letter to the Editor of the Quarterly Review…on The Poyais Bubble"（Google Books id=_UkCAAAAYAAJ） | 独立同期评论；解读方向存在来源冲突 | "首次公开质疑"时间线；方向口径见 C023 |
+| S015 | 同期评论/一手 | "Sketch of the Mosquito Shore"，Quarterly Review, XXVIII | Quarterly Review（与 John Murray 圈子相关） | 1822-10 | Google Books 全卷 https://books.google.com/books?vid=UCAL:$B201489 （pp.157—161） | 独立同期评论 | 1822-10 已公开否定 Poyais 土地、贷款与主权主张 |
 | S016 | 数据序列/最高（经论文整理） | Course of the Exchange 行情数据与拉美债券热潮背景 | Clavel Table 1；Dawson, The First Latin American Debt Crisis (1990) | 1822—1824 | 经 S002 转引 | 原始行情表转录 | 债券价格轨迹与时代热潮参照系 |
 | S017 | 学术研究/高 | Gregor McGregor and the Colonization of Poyais, between 1820 and 1824 | Alfred Hasbrouck, Hispanic American Historical Review 7(4), pp.438—459 | 1927 | https://www.jstor.org/stable/2505996 | 独立早期学术研究（付费墙，仅元数据与注释线索） | 同期报道索引（Times 1823-08-25/09-02；Edinburgh Advertiser 1823-10-24；Annual Register 1823, LXV, pp.136—139 "Chronicle"） |
 | S018 | 百科与大众媒体/D（仅线索） | 维基百科 Gregor MacGregor 条目、Britannica、Historic UK、BADA 等大众叙述 | 多家 | 现代 | 见各页面 | 相互转载风险高 | 仅作导航与口径冲突登记，不进定稿 |
+| S019 | 同行评议研究/最高 | The Rise and Fall of George Frederic Augustus II: The Central American, Caribbean, and Atlantic Life of a Miskitu King, 1805–1824 | Damian Clavel, Business History Review 96(3) | 2022 | https://www.cambridge.org/core/journals/business-history-review/article/rise-and-fall-of-george-frederic-augustus-ii-the-central-american-caribbean-and-atlantic-life-of-a-miskitu-king-18051824/95104178A18D586FD39B892D1BC2BA18 | 独立同行评议研究；大量引用 TNA/NRS/LBGA 原件 | 国王能动性、早期真实殖民点、四船、QR 警告、撤销授予 |
+| S020 | 同期辩护小册子/一手 | A Letter to the Editor of the Quarterly Review…on The Poyais Bubble | Verax（笔名） | 1823 | https://commons.wikimedia.org/wiki/File:A_Letter_to_the_Editor_of_the_Quarterly_Review,_for_(Oct._1822),_on_(The_Poyais_Bubble)_(IA_alettertoeditor00veragoog).pdf | 对 S015 的直接回应；立场相反 | 证明同期争议方向：Verax 为 MacGregor/Poyais 辩护，并非揭露者 |
+| S021 | 同期司法报道/最高 | Gazette des Tribunaux：MacGregor/Lehuby 案（4 月初审、7 月上诉） | Gazette des Tribunaux | 1826-04-07、07-12、07-17 | https://data.decalog.net/enap1/Liens/Gazette/ENAP_GAZETTE_TRIBUNAUX_18260407.pdf ；https://data.decalog.net/enap1/Liens/Gazette/ENAP_GAZETTE_TRIBUNAUX_18260712.pdf ；https://data.decalog.net/enap1/Liens/Gazette/ENAP_GAZETTE_TRIBUNAUX_18260717.pdf | 同期法国司法报道；刊出上诉判决原文 | 法国招募、未启航、MacGregor 未获罪的精确理由、Lehuby 获刑 |
+| S022 | 学术专著/高（待阅读全文） | Financing Sovereignty: The Poyais Scandal in the Early Nineteenth-Century Atlantic World | Damian Clavel, Stanford University Press | 2025-08 | https://supress.sites-pro.stanford.edu/sites/supress/files/media/file/spring25_catalog_52pgs_v5_all-pages-web.pdf | 出版社目录与内容摘要；正文尚未取得 | 最新专著入口；用于后续核查主权融资、Miskitu 精英与英国金融中介的新论证，不直接支持现有事实主张 |
+| S023 | 同期第一人称报道/一手 | “Poyais Settlers”（Edward Low 署名叙述），Annual Register 1823, Chronicle, pp.136—139 | Edward Low / Annual Register | 1823-10-23 | https://books.google.com/books?id=GO1GAAAAcAAJ&pg=RA2-PA136 （公版整卷扫描：https://commons.wikimedia.org/wiki/File:The_annual_register,_or,_a_view_of_the_history,_politicks,_and_literature_for_the_year._Volume_65,_1823_(IA_s25id13212200).pdf ） | 移民者同期自述；与 Hastie 叙述、次年庭审证词独立 | Honduras Packet 约 50 人、无城镇建制、另一船约 150 人、疫病死亡、国王撤销消息、Bennet 救援 |
 
 ## 来源卡片
 
@@ -53,7 +58,8 @@
 - 精确定位：ORA 文件第 1 页摘要；全文 50 页可读。
 - 关键段落摘录（均见该 PDF，含注释编号）：
   - 土地授予原文（fn33 引 Lloyds Banking Group Archives, 'Grant of Land by George Frederic', NRAS945/20/19/72, 29 Apr. 1820）："full power and authority to enact laws, establish customs... commonly called Black River, Polayas or Poyais. But let it be clearly understood, that there is nothing contained in this Deed, which shall be construed into a Cession of the Sovereignty of the Country as now held by His Mosquito Majesty."（授予范围 >33,000 km²）
-  - 债券（"The Loan"节）：1822-10-23，John Perring（从男爵、议员、前伦敦市长，Perring, Shaw and Barber & Co. 合伙人）认购"Service of the State of Poyais" 6% 贷款，总额 £200,000；2,000 张 £100 面额无记名债券，发行价 £80，分期 £15/£35/£30；Lowe 佣金约 8%，Perring & Shaw 约 5%；Ogilvie 持有约三分之二。
+  - 债券（"The Loan"节）：1822-10-23，John Perring（从男爵、议员、前伦敦市长，Perring, Shaw and Barber & Co. 合伙人）认购"Service of the State of Poyais" 6% 贷款，总额 £200,000；2,000 张 £100 面额无记名债券，发行价 £80，分期 £15/£35/£30；Lowe 佣金约 8%，Perring & Shaw 约 5%。当时先发的是 £100/£200/£500 的临时认购凭证，全部分期缴清后才有权换正式债券。
+  - 资金去向与实际募集边界（PDF p.21）：约三分之二认购凭证由 MacGregor 的代理兼托运人 Ogilvie 持有；Ogilvie 与 Arnott 包租 Honduras Packet、Kennersley Castle，并装载约 £16,000 的建殖物资。其持券主要作为这些供应与运输的结算，最多按首期应缴额计价并扣佣金；余下约三分之一由 Lowe 持有并拟在交易所销售。故 £200,000 是票面计划规模，不是已收现金；现有开放材料仍不足以算出最终净现金到账。
   - 市场：1822-10-29 进入 Course of the Exchange；10 月底涨至 £86；分期两次展期下调；1823-05 Richardson 转换贷款（400 股经 Daniel Mocatta 以 5% 佣金售出）；1823-07 至 09 价格 £5—£20；行情表最后一次出现 1824-01-23；1824-11-09 Foreign Stock Market 委员会裁定 "non-cognizable"。
   - 殖民部知悉（RCSL GBR/0115/RCMS 270/46_41）：Belize 主管 George Arthur 1821-01-15 函告殖民部该授予，早于债券发行约一年半。
   - MacGregor 致财政大臣 Vansittart（1821-03-13, TNA CO 137/152）：欲在 Poyais 建"state"，"that may one day be useful to Jamaica"。
@@ -126,7 +132,7 @@
   - 出发：Honduras Packet 1822-09-10 自 Leith 载 50 名定居者（S001 称自伦敦载约 70 人；S007 证人 Swan 称 1822-12-10 搭此船 50+ 人——三重口径，C012）；"Another vessel from Scotland brought 150"。
   - 结局："the total mortality exceeded two-thirds of the original number"；"in all, seven emigrant ships sailed"（含后续船）；General Edward Codd（时任 Belize 长官）"despatched a schooner"接运。
   - 假国书（"LETTERS OF CREDENCE"引文）：任命"William John Richardson... to be Our Charge d'Affaires in the United Kingdom"，署"His Majesty's Principal Secretary of State for Foreign Affairs"等虚构建制。
-  - 法国：1825 年 9 月法国探险队自 Le Havre 启航；Thomas Jenkins & Company, 39 Lothbury 另发 £300,000 贷款，"secured on the revenues of the imaginary gold mines of 'Paulaza'"；1827 年在伦敦被捕（Tothill Fields），案件随后撤销；La Force 监禁短暂。
+  - 法国：该文称 1825 年 9 月法国探险队自 Le Havre 启航；此点已被 S021 同期法国庭审报道纠正——船只停在 Le Havre 外港，出发一再延期，招募者在未启航前即投诉。该文所述 Thomas Jenkins & Company, 39 Lothbury 的 £300,000 贷款与 1827 年伦敦案仍仅作线索。
   - 委内瑞拉：1839 年上书（同袍 Soublette 时任要职）；恢复军衔（General of Division）与抚恤；1845 年卒于加拉加斯，享年 59。
   - 视觉线索：William Heath 漫画"Poyais royalty in quad, or the cacique waiting for bail"（1827）；'El General Mac Gregor' 肖像（J.S. Rochard 绘，S.W. Reynolds 雕刻）；Bank of Poyais 纸币；"Engravings of this mythical metropolis were printed and sold in thousands"。
 - 支持主张：C004、C010、C012、C014、C020、C021；反驳"无人受审/无人被捕"类说法（法国与伦敦均有司法接触）。
@@ -158,9 +164,14 @@
 ### S008｜McGregor v Thwaites and Another（1824）正式判例报告
 
 - 精确定位：Court of the King's Bench；报告 3 Barnewall & Cresswell 24；English Reports 引用 107 E.R. 643；10 E.C.L. 6。vLex 条目（付费墙）：https://vlex.co.uk/vid/mcgregor-v-thwaites-and-803942337
-- 元数据摘录（vLex 头注）："Declaration for a libel purporting to contain an account of a proceeding which had taken place before a magistrate..."; "jury found that the matters contained in the [libel] were not true, but [that it] contained a correct account of the proceedings."
-- 支持主张：C017；第 1 类司法文书类别归属（本案成为"治安程序报道之（有限）特权"的先例）。
-- 局限：付费墙，本轮仅获头注级信息；完整判词与年月日细节待取报告原文（公有领域，可经合法扫描补录）。
+- 原文摘录（判例头注）：
+  > "The jury found that the matters contained in the libel were not true, but that it contained a correct account of the proceedings which had taken place before the magistrate."
+  > "...as the matter brought before the magistrate was not brought before him in his judicial character, or in the discharge of his magisterial functions, the defendant could not justify the publication on the ground of its being a correct report..."
+- 中文翻译：
+  > "陪审团认定诽谤文章所载事项本身并不真实，但文章准确记录了治安官面前发生的程序。"法院继而认为，该治安官当时并非以司法身份履职，只是在提供意见，因此报纸不能仅以"准确报道该程序"主张免责。
+- 精确定位：vLex 开放页，3 B. & C. 24—25 / 107 E.R. 643，头注及正文起首；S021 的 1826-04-07 回顾把英国判决日期记为 1824-01-22。
+- 支持主张：C017；本案的核心不是"报道内容属实"，而是"准确转述非司法性程序仍不当然享有特权"。
+- 局限：vLex 开放页显示头注及正文至报告第 26 页后截断；本轮足以核准法律要旨，完整逐页报告仍可继续补录。
 - 独立性：与 S007 同案异录，互为独立校验。
 - 版权状态：1824 年判例报告文本公有领域；vLex 现代页面仅保存元数据摘录。
 
@@ -170,7 +181,7 @@
   > "an office called the 'Poyais Emigration-office' was now opened in London, for the purpose of receiving money from persons who were disposed to emigrate..."
   > "The evils which had resulted from the emigration to Poyais were well known to the House."
   > （答复方称该移民办公室）"was altogether without the sanction of the government, and the people could not be too cautious in listening to the delusive representations which were made to them, and in relying on the promises of the mercenary projectors."
-- 精确定位：hansard.parliament.uk 条目页（2026-08-29 访问）；发言人姓名在网页前端动态渲染，本轮未捕获——待补。
+- 精确定位：hansard.parliament.uk 条目页（2026-08-31 回查）；质询人为 Mr. Hume，答复人为殖民地事务次官 Mr. Wilmot Horton。
 - 支持主张：C018。
 - 局限：条目内"Poyais office"与"proceeding to settle in New Zealand"表述并见，疑为原始 Hansard 记录的转录/口语混串，引用时按原文整段转录，不得改写；S002 注脚将同场辩论记为"4 Apr. 1824, col. 728"，与官方在线版"1824-03-04"存在日期口径差异——以官方在线版为准并登记差异。
 - 独立性：官方议会记录（一手）。
@@ -210,11 +221,11 @@
 - 独立性：档案原件（转引路径 S002）。
 - 版权状态：英国国家档案开放利用，本仓库不保存全文。
 
-### S013｜MacGregor 自述请愿书（Exposición, 1839）——待补数字化链接
+### S013｜MacGregor 自述请愿书（Exposición, 1839）
 
-- 状态：S002 书目登记为 MacGregor, 'Exposición documentada que el General Mac-Gregor dirijió al Gobierno de Venezuela...'（Caracas, 1839）；Banrepcultural 等有公开数字化版本的线索，本轮未完成链接核实。
+- 状态：S002 书目登记为 MacGregor, 'Exposición documentada que el General Mac-Gregor dirijió al Gobierno de Venezuela...'（Caracas: A. Damirón, 1839），并给出 Banrepcultural 数字化地址：http://www.banrepcultural.org/blaavirtual/ciencia-militar/exposicion-documentada-que-el-general-mac-gregor-dirijio-al-gobierno-de-venezuela 。2026-08-31 已核对该链接确为 S002 参考文献所列地址；当前页面可用性仍受站点迁移影响。
 - 用途：第 5 类（当事人公开陈述）；只用于证明其 1839 年如何陈述自身履历与诉求。
-- 状态标注：待补。
+- 状态标注：书目信息与数字化地址已补；正文逐页回查仍待进行。
 
 ### S014｜Codd 调查程序汇编（Proceedings of an Inquiry, 1824）——缺口登记
 
@@ -222,13 +233,15 @@
 - 用途：如获取，可支持 C016 与代价承受者的官方口径。
 - 状态标注：缺口（第 1/4 类之间的官方调查文献，暂以 S007 转录的 Codd 证明书替代其部分功能）。
 
-### S015｜Quarterly Review 1822-10 书评与 Verax 小册子——方向口径冲突登记
+### S015｜Quarterly Review 1822-10 书评——同期公开否定
 
-- 现状：Quarterly Review, XXVIII（1822-10），"Sketch of the Mosquito Shore"，pp.157—161。对其立场的解读存在冲突：
-  - S002（Clavel）口径：书评作者"tore apart the sketch, described it as an unrealizable dream"，并指该刊写手受雇于 John Murray（哥伦比亚利益方，年轻 Disraeli 参与）作竞争性宣传。
-  - S018（Wikipedia 等大众口径）：认为书评助推了该书与投资热潮；同期"Verax"发表致编辑公开信《A Letter to the Editor of the Quarterly Review... on The Poyais Bubble》（Google Books id=_UkCAAAAYAAJ）。
-- 支持主张：C023（无论书评方向如何，1822 年 10 月已有公开争议——Verax 小册子的存在本身证明泡沫已遭公开质疑）。
-- 状态标注：待核验（须取 1822-10 QR 原文 pp.157—161 与 Verax 小册子逐页核对后方可定稿引用）。
+- 原文摘录（pp.160—161，经 S019 精确转录并回指原卷）：
+  > "the 'lands' and the 'loan' ... are non-entities, and the whole affair merely, what is vulgarly called, a hoax."
+- 中文翻译：
+  > "所谓‘土地’与‘贷款’……都是不存在的东西，整件事不过是俗话所说的一场骗局。"
+- 精确定位：Quarterly Review, vol. XXVIII（1822-10），"Sketch of the Mosquito Shore"，pp.157—161，结论见 pp.160—161；Google Books 全卷可浏览。S019 PDF pp.26、fn103 再次逐字转录并定位。
+- 支持主张：C023。该书评的方向已确认是公开攻击 Poyais 贷款、土地与主权合法性，并非为其背书。
+- 局限：书评同时以贬损性的殖民时代语言否定 Miskitu 国王政治权威；其"土地不存在"判断又被授予状与 S019 的历史研究修正。只能用来证明"当时已有公开警告"，不能把所有判断当作事实。
 - 版权状态：1822 年出版物公有领域。
 
 ### S016｜行情与背景数据（Course of the Exchange；Dawson 1990）
@@ -246,8 +259,8 @@
 ### S017｜Hasbrouck 1927（HAHR）——早期学术研究（元数据卡）
 
 - 精确定位：Alfred Hasbrouck, "Gregor McGregor and the Colonization of Poyais, between 1820 and 1824", Hispanic American Historical Review 7(4) (1927-11), pp.438—459；JSTOR 2505996。
-- 检索可见注释线索：该文同期报道索引含 The Times（London）1823-08-25、09-02；Edinburgh Advertiser 1823-10-24；Annual Register, 1823, LXV, pp.136—139 "Chronicle"。
-- 支持主张：C012、C014（口径补充）；并提示 Annual Register 1823 卷（LXV）尚有独立 Chronicle 记录待取。
+- 检索可见注释线索：该文同期报道索引含 The Times（London）1823-08-25、09-02；Edinburgh Advertiser 1823-10-24；Annual Register, 1823, LXV, pp.136—139 "Chronicle"。其中 Annual Register 指定页已取得并单独建为 S023。
+- 支持主张：本卡仅作研究导航；S023 直接支持 C012—C016。
 - 局限：付费墙，仅元数据与注释线索；1927 年研究，地名与人名拼写系旧式。
 - 独立性：独立学术研究。
 - 版权状态：仅保存元数据与最小注释摘录。
@@ -256,20 +269,96 @@
 
 - 构成：Wikipedia "Gregor MacGregor"；Britannica "The craziest scam? Gregor MacGregor creates his own country"；Historic UK "The Prince of Poyais"；BADA "The fraud of the Prince of Poyais" 等。
 - 仅登记三处冲突（不作为事实依据）：
-  - 法国阶段：S018 系（Wikipedia）称 MacGregor 1825-12 至 1826-07 关押于 La Force 后受审无罪、仅一名同伙被定罪；S006 称 1827 年伦敦被捕（Tothill Fields）后撤案、La Force 监禁短暂；S002 称"监禁数月、次年宣告无罪"。→ C020 记为存在争议/待核验。
+  - 法国阶段：S018 系所称"MacGregor 未获罪、Lehuby 被定罪"已获 S021 上诉判决原文支持；羁押起止仍有差异。S006 的"1825-09 法国远征已启航"则被 S021 同期报道反驳。
   - 委内瑞拉年份：1838（S001/S002）与 1839 上书（S006）两说可并存（抵达与上书），定稿须分开表述。
-  - QR 书评方向：见 S015。
+  - QR 书评方向：S018 曾有"助推热潮"口径；S015/S019 已用原文确认其方向是公开攻击，S020 则是后续辩护。
 - 独立性：相互转载风险高，禁止单独入稿。
+
+### S019｜Clavel, Business History Review 2022（Miskitu 国王与 Black River 项目）
+
+- 原文摘录：
+  > "Not resulting from intoxication, George Frederic's policy of distributing grants of land to and hiring foreign mercenaries constituted an active, deliberate, and well-informed strategy for political reform and economic improvement of the Shore."
+- 中文翻译：
+  > "George Frederic 分配土地授予、雇用外国雇佣军的政策并非醉酒所致，而是一项主动、审慎且知情的策略，旨在推动海岸地区的政治改革与经济改善。"
+- 精确定位：正文 PDF p.30（期刊页 555）结论；授予与早期殖民点见 PDF pp.21—24；Honduras Packet、四艘船与疫病见 pp.24—25；QR 警告与撤销见 pp.26—28。
+- 其他关键摘录与事实：
+  - 1820-04-29 授予后，Gordon 等人在旧 Black River 英国定居点附近建殖，雇用 Carib 劳工清地种玉米；当时访客称早期收成与资源具有现实基础（pp.22—23）。
+  - Honduras Packet 于 1822-11-22 离开英格兰，经 St. Thomas、Kingston 停留后于 1823-02 抵达 Black River；MacGregor 共包租 Honduras Packet、Kennersley Castle、Skeene、Albion 四船（p.24，fn97）。
+  - 早期当地 Carib/Paya 以食物和建屋协助定居者；因报酬低于原承诺，援助在 1823-03 中止，随后第二船抵达、医疗短缺，处境迅速恶化（pp.24—25）。
+  - 国王担心船上重武器、移民对当地人的态度，并声称 MacGregor 未经明确授权举债、"defrauded People"；作者同时提示，这也可能是国王与失败项目政治切割的修辞（p.25）。
+- 支持主张：C009、C012、C015、C023、C024、C025。
+- 反对/修正：反驳"国王醉酒被骗、只是被动帮凶"以及"Black River 从一开始就只有空地"的简化；不推翻 C013 所述 1823 年移民到达时不存在宣传中的城市建制。
+- 局限：对国王动机与政治策略的判断是学术解释；文中部分原件需经作者注释访问，入稿应写"研究认为/档案显示"。
+- 版权状态：现代论文，未获完整归档授权；只保存链接、必要摘录与精确定位。
+
+### S020｜Verax 公开辩护小册子（1823）
+
+- 书名原文：
+  > "A letter [subscribed, Verax, in defence of Sir G. Macgregor], to the editor of the Quarterly Review ... on a review of Captain Strangeway's sketch of the Mosquito shore"
+- 中文翻译：
+  > "一封署名 Verax、为 Sir G. MacGregor 辩护的致《季度评论》编辑公开信——回应对 Strangeways 上尉《蚊子海岸概述》的评论。"
+- 精确定位：Google Books 英国图书馆书目 id=5EL8HG0F2kAC 明列 "in defence of Sir G. Macgregor"；Wikimedia Commons/Internet Archive 保存 Harvard University 原本扫描，共 22 页，馆藏标识 alettertoeditor00veragoog。
+- 支持主张：C023。它证明 1823 年的公开信是对 S015 攻击的反驳和对 MacGregor 的辩护，不是另一篇"揭露泡沫"文章。
+- 局限：作者仅署笔名 Verax，真实身份未证；本轮确认了文献方向与全文扫描，尚未把每一论点逐页摘录，因此不得把具体辩护内容归于某位已知人物。
+- 版权状态：1823 年出版物公有领域；Commons 标注 Public Domain Mark，允许公开链接与必要摘录。
+
+### S021｜Gazette des Tribunaux 1826：法国 MacGregor/Lehuby 案
+
+- 原文摘录（1826-07-17 上诉判决）：
+  > "il n'est pas établi qu'il ait fourni, avec connaissance, à Lehuby les moyens de séduire les colons que Lehuby avait engagés"
+  > "réduit à treize mois l'emprisonnement prononcé contre Lehuby."
+- 中文翻译：
+  > "未能证明 MacGregor 明知而向 Lehuby 提供了诱骗其所招募移民的手段。"法院同时把 Lehuby 的刑期减为 13 个月。
+- 精确定位：1826-07-17 号，Cour royale（appels de police correctionnelle），判决原文；同案过程见 1826-04-07（初审）、07-12 至 07-14（上诉庭审）。
+- 其他关键摘录与事实：
+  - 1826-04-07 报道：法国招募者把付款者"通常引向 Le Havre"；初审释放在场被告，缺席的 Lehuby 被判 2 年监禁及罚金。
+  - 1826-07-12 报道：Le Havre 外港虽有一艘待运殖民者的船，但"每天新的拖延推迟远征"；收款与招募引发投诉，Lehuby 已赴比利时。由此可确认这批招募者未按宣传启航。
+  - 同日报道记 MacGregor 当庭声称土地为永久授予、国王无权撤销；这是当事人抗辩，只证明其说法。
+  - 1826-07-17 判决：法院批评 MacGregor 在 1823 年失败后仍坚持计划并使用足以影响普通公众判断的头衔，但仍认为主观明知与帮助诱骗未获证明；Lehuby 的欺骗/未遂欺骗成立，刑期最终减为 13 个月。
+- 支持主张：C008、C020；并为 C009/C015 提供 MacGregor 本人关于撤销效力的同期抗辩。
+- 局限：司法报纸并非法院卷宗正本，但 07-17 刊出判决文本；OCR 有少量错字，直接引语以扫描版逐行回看为准。不能把 Lehuby 的定罪移植为 MacGregor 的定罪，也不能把"未证主观明知"写成法院认定整个项目真实。
+- 独立性：同期法国司法报道，与 S001/S002/S006 的后世叙述独立。
+- 版权状态：1826 年报纸公有领域；ENAP/BnF 合作数字化页面可公开链接，仓库不保存整份 PDF。
+
+### S022｜Financing Sovereignty（2025）
+
+- 书目信息：Damian Clavel, *Financing Sovereignty: The Poyais Scandal in the Early Nineteenth-Century Atlantic World*, Stanford University Press，2025 年 8 月，304 页；纸书 ISBN 978-1-5036-4321-5，电子书 ISBN 978-1-5036-4322-2。
+- 精确定位：Stanford University Press 2025 春季目录，第 14 页（PDF 第 16 页），列有书名、作者、出版月、页数、ISBN 与出版社摘要。
+- 出版社摘要要点：该书把 Poyais 重释为一次失败的国家建构融资尝试，并将 MacGregor 描述为 Miskitu 精英与英国金融家之间的中介。这只是出版社对全书论旨的概括，不等于已回查书中证据。
+- 支持主张：暂无。现阶段只登记为最新研究入口，不以目录摘要新增或升级任何 C###。
+- 局限：本轮未取得或阅读全文，无法核对注释、档案来源与具体论证；在完成逐章阅读前，不得据此改写人物动机或把“骗局”替换成单一的“国家建构失败”结论。
+- 版权状态：现代版权专著；只保存出版社链接、书目信息与必要摘要，不归档全文。
+
+### S023｜Annual Register 1823：“Poyais Settlers”
+
+- 原文摘录一（p.136）：
+  > "I embarked in the ship Honduras Packet, together with about fifty more unfortunate creatures, doomed to misery and distress; and led away with the erroneous idea, that we were going to the finest climate and most fertile place in the world."
+- 中文翻译：
+  > “我登上了 Honduras Packet，与大约五十名同样不幸的人同行；我们被错误观念引导，以为自己正前往世上气候最好、土地最肥沃的地方。”
+- 原文摘录二（p.137）：
+  > "We inquired for the town of St. Joseph's, but the man said it was now too dark to be able to find out where the old town of St. Joseph's formerly stood, it being so thickly overgrown with bushes."
+- 中文翻译：
+  > “我们询问 St. Joseph 城在哪里；那人说天已经太黑，找不到旧城原来所在的位置，因为那里已经被灌木密密覆盖。”
+- 原文摘录三（p.138）：
+  > "on the arrival of another ship, with about 150 men, women, and children, which, together with our number, made upwards of two hundred."
+  > "before this vessel arrived, ten or eleven had already been consigned to the grave."
+- 中文翻译：
+  > “另一艘船载着约一百五十名男女和儿童抵达；加上我们，总人数超过二百。”救援船到来前，“已有十或十一人入土”。
+- 精确定位与上下文：Annual Register 1823 卷，Chronicle，pp.136—139；标题“Poyais Settlers”。文本末署 Edward Low，6 Stafford-place, Pimlico，1823-10-23。叙述称 Honduras Packet 一批约 50 人；到达后找不到宣传中的城镇；另一船带来约 150 人；国王来信要求移民效忠并称 MacGregor 授予无效；Mr. Bennet 的 schooner 随后参与把人送往 Belize。
+- 数字限定：p.138 的“only five or six remaining, all of whom were sick”指 Low 冒险去 Belize 后回到 Black River 所见的一组人；p.139 的“returned does not exceed forty”是其截至 1823-10-23 对返英人数的当时估计。两者都不能改写成全部移民最终只剩 5—6 人或仅 40 人生还。
+- 支持主张：C012、C013、C014、C015、C016。
+- 独立性与局限：同期第一人称叙述，与 S004 Hastie 回忆、S007 次年庭审记录独立；但作者只掌握自己航程和所见，人数仍需按 C012/C014 与其他来源并列，不能单源定总数。
+- 版权状态：1823 年出版物公有领域；Google Books 与 Wikimedia Commons 提供扫描，仓库不保存整卷 PDF。
 
 ## 类别覆盖结论（规约第一节）
 
 | 类别 | 结论 |
 |---|---|
-| 1 司法与监管文书 | 已收：S007（同期庭审全记录）、S008（判例报告）；缺口：S008 判词全文、S014 Codd 调查汇编未数字化 |
+| 1 司法与监管文书 | 已收：S007（英国同期庭审全记录）、S008（英国正式判例头注与正文起首）、S021（法国同期司法报道与上诉判决原文）；缺口：S008 全报告后半、S014 Codd 调查汇编未数字化 |
 | 2 政府与立法记录 | 已收：S009（Hansard）、S012（殖民部档案组元数据）；缺口：档案全文未调 |
 | 3 法定披露与财务文件 | 已收：S002（债券条款）/S005（债券实物）/S010（授予状）；缺口：1822 年贷款契约与 1823 年转换贷款文书原件 |
-| 4 同期新闻报道 | 已收：S007（Morning Herald 文章全文转录）、S011（Times 两则，转引）、S015（QR 书评）；缺口：Times 原报回查、Edinburgh Advertiser 1823-10-24、Annual Register 1823 卷 Chronicle pp.136—139 |
-| 5 当事人陈述 | 已收：S003（宣传品）、S004（Hastie）、S001（1821 信）；待补：S013 链接 |
-| 6 学术与专著 | 已收：S002、S017；线索：Dawson 1990、Sinclair 1999（元数据） |
+| 4 同期新闻报道 | 已收：S007（Morning Herald 文章全文转录）、S011（Times 两则，转引）、S015（QR 书评）、S021（Gazette des Tribunaux）、S023（Annual Register 1823 移民者叙述）；缺口：Times 原报回查、Edinburgh Advertiser 1823-10-24 |
+| 5 当事人陈述 | 已收：S003（宣传品）、S004（Hastie）、S001（1821 信）、S013（1839 自述书目与数字化地址）、S020（Verax 同期辩护） |
+| 6 学术与专著 | 已收：S002、S017、S019；S022 为 2025 年最新专著，已登记出版社书目但待阅读全文；线索：Dawson 1990、Sinclair 1999（元数据） |
 | 7 数据序列 | 已收：S016（债券价格轨迹+热潮背景，经学术转录）；缺口：原始行情表影像 |
 | 8 视觉素材 | 已登记链接与版权状态，见 06-visual-assets.md V001—V007 |
