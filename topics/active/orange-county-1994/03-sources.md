@@ -24,7 +24,7 @@
 | S018 | 里根总统图书馆 | Remarks on Signing the Economic Recovery Tax Act of 1981；Message Transmitting the FY1983 Budget | 1981-08-13；1982-02-08 | https://www.reaganlibrary.gov/archives/speech/remarks-signing-economic-recovery-tax-act-1981-and-omnibus-budget-reconciliation；https://www.reaganlibrary.gov/archives/speech/message-congress-transmitting-fiscal-year-1983-budget | 1981年减税政策与里根政府国防扩张的政策口径 | 原创 | 公有领域 |
 | S019 | 加州立法分析办公室 | Common Claims About Proposition 13 | 2016-09-19 | https://lao.ca.gov/publications/report/3497 | 1%税率上限、评估值年增幅限制与通过后财产税收入下降 | 原创 | 公有领域（加州政府作品） |
 | S020 | 《洛杉矶时报》 | Campeau's Retail Empire Files for Bankruptcy | 1990-01-16 | https://www.latimes.com/archives/la-xpm-1990-01-16-mn-254-story.html | Allied、Federated收购规模、垃圾债券融资与1990年破产 | 原创 | 未获授权；仅链接与最小摘录 |
-| S021 | Robert L. Citron提交美国参议院银行委员会的书面陈述 | Statement of Robert L. Citron | 1995-01-17 | https://www.sechistorical.org/collection/papers/1990/1995_0117_StatementCitron.pdf | 西特龙教育、职业经历、1970年当选、1973年接管投资及无正规投资经验 | 原创 | 公有领域（国会记录提交材料） |
+| S021 | Robert L. Citron提交加州州参议院地方投资特别委员会的书面陈述 | Statement of Robert L. Citron | 1995-01-17 | 原链接2026-09-05核验已404：https://www.sechistorical.org/collection/papers/1990/1995_0117_StatementCitron.pdf；替代候选（解析待验证）：https://www.sechistorical.org/wp-content/uploads/1995_0301_HaydenOrange.pdf | 西特龙教育、职业经历、1970年当选、1973年接管投资及无正规投资经验 | 原创 | 公有领域（州听证提交材料） |
 | S022 | 《洛杉矶时报》 | The Man Behind the Orange County Debacle | 1994-12-18 | https://www.latimes.com/archives/la-xpm-1994-12-18-mn-10460-story.html | 西特龙履历、催税标语、银行缴税、主动压缩部门预算、人物名声 | 原创 | 未获授权；仅链接与最小摘录 |
 | S023 | 《洛杉矶时报》 | County Faces $20-Million Budget Shortfall | 1990-05-09 | https://www.latimes.com/archives/la-xpm-1990-05-09-me-140-story.html | 1990年春预算缺口、医疗拨款风险及不足1400万美元储备 | 原创 | 未获授权；仅链接与最小摘录 |
 | S024 | 《洛杉矶时报》 | O.C. Budget Deficit Put at More Than $46 Million | 1990-08-01 | https://www.latimes.com/archives/la-xpm-1990-08-01-me-1578-story.html | 1990年夏预计缺口超过4600万美元 | 原创 | 未获授权；仅链接与最小摘录 |
@@ -38,8 +38,13 @@
 | S032 | 政府记录 | Economic Report of the President, 1995（CEA，FRASER全文） | 1995-02 | https://fraser.stlouisfed.org/title/economic-report-president-45/1995-8094/fulltext | 1994年就业增长印证与"1994年增长强劲"口径 | 引用BLS数据（与S031同源，作印证不作独立验证） | 公有领域 |
 | S033 | 同期报道 | Los Angeles Times, Ex-O.C. Treasurer Pleads Guilty to Six Felonies | 1995-04-28 | https://www.latimes.com/archives/la-xpm-1995-04-28-mn-59918-story.html | 1995-04-27西特龙对六项重罪认罪（NYT、WaPo同日独立印证） | 原创 | 未获授权；仅链接与最小摘录 |
 | S034 | 联储历史 | Federal Reserve History, "Oil Shock of 1973–74"（Michael Corbett） | 2013-11-22 | https://www.federalreservehistory.org/essays/oil-shock-of-1973-74 | 石油冲击期间加油站限购（每车10加仑）的时代细节 | 原创 | 公有领域 |
+| S035 | 事后媒体讣闻 | Los Angeles Times, Robert L. Citron dies at 87; central figure in O.C. bankruptcy | 2013-01-17 | https://www.latimes.com/archives/la-me-robert-citron-20130117-story.html | 出生地洛杉矶、童年哮喘迁居赫米特、父亲Jesse与Fields、在任24年 | 与S036独立 | 未获授权；仅链接与最小摘录 |
+| S036 | 事后权威讣闻 | New York Times, Robert Citron, Culprit in California Fraud, Dies at 87 | 2013-01-18 | https://www.nytimes.com/2013/01/18/business/robert-citron-culprit-in-california-fraud-dies-at-87.html | 1994年得票61%/39%、1960年副税收官、1970当选、1973两职合并、加州参议院作证 | 与S035独立 | 未获授权；仅链接与最小摘录 |
+| S037 | 同期报道 | New York Times, Orange County, Calif., Makes Bankruptcy Filing | 1994-12-07 | https://www.nytimes.com/1994/12/07/us/orange-county-calif-makes-bankruptcy-filing.html | "全美最富裕县之一"同期口径；当时最大政府机构破产 | 与S033不同篇报道 | 未获授权；仅链接与最小摘录 |
+| S038 | 地区报纸史料专栏 | The Press-Enterprise, Back in the Day: W.C. Fields fell ill, landed in court | 2014-02-05 | https://www.pe.com/2014/02/05/back-in-the-day-w-c-fields-fell-ill-landed-in-court/ | 1936年Jesse Citron为Fields治疗戒酒；1937—1939年诉讼全程 | 与S035/S036独立（仅记Jesse，不涉Robert） | 未获授权；仅链接与最小摘录 |
+| S039 | 政府统计 | BLS地方失业统计（LAUS），橙县CA年度序列，经FRED发布（LAUCN060590000000003A） | 现行修订序列 | https://fred.stlouisfed.org/data/LAUCN060590000000003A | 橙县1993年失业率6.8%、1994年5.8%（年度均值） | 原创 | 公有领域（政府统计） |
 
-访问日期：S001—S009为2026-08-03；S010—S014为2026-08-04；S015—S029为2026-08-13；S030—S034为2026-08-29。仅记录链接、最小摘录和页码/段落定位。
+访问日期：S001—S009为2026-08-03；S010—S014为2026-08-04；S015—S029为2026-08-13；S030—S034为2026-08-29；S035—S039为2026-09-05（S021死链复核与勘误同日）。仅记录链接、最小摘录和页码/段落定位。
 
 ## 关键来源卡片
 
@@ -76,6 +81,9 @@
 - **支持：** C024
 - **定位：** 报道首段及其竞选回顾：Moorlach在1994年竞选中警告投资策略风险，计算资金池已出现超过12亿美元损失；落选后于1995-03-17被任命为财税官。
 - **局限：** 12亿美元是Moorlach当时的计算与竞选主张，不等于当时经审计确认的已实现损失。
+- **2026-09-05补充摘录：** "the 39-year-old CPA"；"Moorlach earned 40% of the vote"；Citron辞职"in disgrace Dec. 4, two days before the county's unprecedented bankruptcy filing"；"The 5-0 appointment came amid widespread criticism of the board's selection process."
+- **补充翻译：** 39岁的注册会计师；莫拉克获得40%的选票；西特龙12月4日灰头土脸地辞职，两天后县提出前所未有的破产申请；5票全票的任命是在对监事会遴选过程的广泛批评声中作出的。
+- **边界补充：** 本篇记Moorlach得票"40%"，与S036讣闻"61%（即39%）"为四舍五入口径差（见04-claims.md冲突表）；本篇未提"竞选后丢失客户"；任命日为周五（1995-03-17）。
 
 ### S009｜Merrill Lynch SEC命令
 
@@ -167,6 +175,9 @@
 - **必要摘录：** "Nonfarm payroll employment grew by 3.5 million jobs, the largest annual increase in a decade"；"Growth in 1994 was robust, fueled by strong investment spending."
 - **翻译：** 非农就业增长350万，为十年来最大年增幅；1994年增长强劲，受强劲投资支出推动。
 - **独立性备注：** 本报告引用BLS同一数据体系，与S031同源；只作印证，不构成独立交叉验证。报告未提供1994年GDP百分比（附录表B-2未收入摘录），故GDP表述不入稿。
+- **2026-09-05补充摘录：** "Housing starts totaled 1.5 million units, their highest level since 1988, with single-family home starts posting their highest annual total since 1978."；"Over 1994, PDE spending reflected especially robust investment in cars and trucks, total sales of which to business and households rose to 15 million units."；"business investment in equipment and structures, which rose 12.9 percent over the year"；"the civilian unemployment rate fell by more than 1 percentage point, from 6.7 percent in January to 5.4 percent in December."
+- **补充翻译：** 1994年新屋开工合计150万套，为1988年以来最高，独栋新屋开工创1978年以来年度新高；1994年个人消费支出中轿车与卡车购置尤为强劲，企业与家庭购车总量升至1500万辆；企业设备与建筑投资全年增长12.9%；全年民间失业率下降超过1个百分点，从1月的6.7%降至12月的5.4%。
+- **补充支持：** C056（全国失业率口径）、C057（住房/汽车/设备投资回升）。另记录：报告对1990—91年衰退后复苏初期的拖累因素口径为"家庭与企业债务负担、商业地产高空置、放贷机构信贷收紧、海外增长停滞、联邦采购（尤其军购）下降"，不含"油价冲击＋储贷危机"的单因表述。
 
 ### S033｜西特龙认罪报道（新增，2026-08-29）
 
@@ -184,3 +195,63 @@
 - **必要摘录：** "Gas shortage! Sales limited to 10 gallons of gas per customer"（康涅狄格州一处加油站在能源危机期间挂出的告示）。
 - **翻译：** "汽油短缺！每位顾客限购10加仑。"
 - **边界：** 摘录出自历史照片说明；仅用于第一幕时代场景（限量供应），不扩展为价格或宏观论断。
+
+### S021勘误与死链（2026-09-05）
+
+- **会场归属更正：** 原登记为"提交美国参议院银行委员会"，系误记。该陈述实际提交于加州州参议院地方投资特别委员会（Tom Hayden主持，1995-01-17听证）。依据：S001审计报告原文记Citron曾"testified before a senate special committee"；S036讣闻记"in testimony before the California Senate in 1995"；同期UPI报道记"special California state Senate committee"。原索引行的"国会记录提交材料"版权说明一并更正为"州听证提交材料"。
+- **链接失效：** 原PDF链接2026-09-05核验返回404（WebFetch）。替代候选为同一档案库的 `1995_0301_HaydenOrange.pdf`（web_reader解析亦失败，需另行验证或经Wayback存档取回）。在原文重新取得前，仅依赖S021原文的传记细节（医学预科、洛约拉课程等）一律按"资料不足"处理。
+
+### S022补充定位二｜履历与家境（2026-09-05补录，支持C052、C055、C060）
+
+- **定位：** 同篇人物特稿正文。
+- **摘录一：** "Born into a family that had rooted in Orange County in 1887…"
+- **翻译一：** 他出生于一个早在1887年就在奥兰治县扎根的家庭。
+- **摘录二：** "Citron left private business in 1960 to join the Orange County tax collector's staff. He worked there 10 years, eventually rising to a supervising position, then winning an election to succeed the tax collector after he retired in 1971."；"Then in 1973, when then-Treasurer Ivan Swanger retired, supervisors consolidated the treasurer and tax collector offices and appointed Citron to the new post."
+- **翻译二：** 1960年，西特龙离开私人企业，进入橙县税收官部门工作。他在那里干了10年，最终升到主管级职位，然后在老税收官1971年退休时赢得选举接任。随后在1973年，时任司库Ivan Swanger退休，监事会将司库与税收官两职合并，任命西特龙出任新职。
+- **摘录三：** "Citron's earliest campaign literature states that he spent 10 years as 'manager for a large financial institution.'"
+- **翻译三：** 西特龙最早的竞选材料称，他曾在一"大型金融机构"担任经理10年。
+- **摘录四：** "…he attended USC's School of Business Administration but did not obtain a degree, according to school records."；"the first to ever challenge him in his 24 years in office"；"He helped form a local W.C. Fields Fan Club because his father, a physician, had once helped the famous drinker dry out."
+- **翻译四：** 据校方记录，他就读于南加州大学商学院但未获得学位；他是他24年任期内第一个站出来挑战他的人；他协助组建了当地的W.C. Fields影迷俱乐部，因为他的医生父亲曾帮这位著名的酒徒戒过酒。
+- **边界：** 同篇标题口径备注——2026-09-05复核时该URL呈现的标题为《Citron Was Embittered, Defensive, Friends Say : Profile…》，与原登记标题《The Man Behind the Orange County Debacle》存在正副题差异，内容与2026-08摘录一致，标题口径待后续核对。特稿全文未见"医学预科""洛约拉大学课程""竞选后丢失客户"等内容。
+
+### S035｜LA Times讣闻（新增，2026-09-05）
+
+- **支持：** C052、C053、C055
+- **定位：** 讣闻正文前段。
+- **必要摘录：** "A third-generation Californian, Citron was born in Los Angeles on April 14, 1925, according to public records, and grew up in Burbank."；"Because he had asthma as a child, his family moved out to the town of Hemet in the foothills of the San Jacinto Mountains."；"His father, Jesse, was a doctor who earned a measure of fame for being liquor-loving W.C. Fields' doctor and weaning him off Scotch."；"…a post he held for 24 years."
+- **翻译：** 据公共记录，作为第三代加州人的西特龙于1925年4月14日生于洛杉矶，在伯班克长大；因为他童年患有哮喘，全家搬到了圣哈金山脉山脚下的赫米特镇；他的父亲杰西是一名医生，因给嗜酒的W.C. Fields当医生、帮他戒掉威士忌而小有名气；在这个职位上干了24年。
+- **边界：** 未获授权，仅链接与最小摘录；出生日期注明"据公共记录"；Fields戒酒为讣闻概括，诉讼细节以S038为准。
+
+### S036｜NYT讣闻（新增，2026-09-05）
+
+- **支持：** C052、C053、C054、C055、C060（印证）
+- **定位：** 讣闻正文。
+- **必要摘录：** "He received 61 percent of the vote in his last victory, in 1994."
+- **翻译：** 他最后一次胜选——1994年——获得了61%的选票。
+- **内容要点（非逐字，均见正文）：** 其父为顺势疗法医生，曾为W.C. Fields戒酒并因欠费胜诉；1960年受雇为县副税收官；1970年当选司库、1973年两职合并；任内六次连任；1995年曾在加州参议院作证并自称"缺乏经验的投资者"；1993年县资金池收益8.5%（同期州投资池4.7%）。
+- **边界：** 未获授权，仅链接与最小摘录；讣闻定性标题系NYT口径，入稿不沿用其定性词。
+
+### S037｜NYT破产申请报道（新增，2026-09-05）
+
+- **支持：** C059；C032、C010—C011（印证）
+- **定位：** 报道正文首段附近。
+- **必要摘录：** "The filing by Orange County, one of the wealthiest in the country, is by far the largest bankruptcy case involving a unit of government."
+- **翻译：** 全美最富裕县之一的奥兰治县提出的这份申请，是迄今涉及政府机构的最大破产案。
+- **边界：** 未获授权，仅链接与最小摘录；"最富裕"必须保留"之一"限定，不升级为"美国最富县"。
+
+### S038｜Press-Enterprise Fields官司专文（新增，2026-09-05）
+
+- **支持：** C053
+- **定位：** "Back in the Day"专栏正文。
+- **必要摘录：** 诉状称他"helped the actor wean himself from two quarts of liquor a day to just an ounce and a half."
+- **翻译：** （诉状称）他帮这位演员把每天两夸特的酒量戒到只剩一盎司半。
+- **内容要点（非逐字，均见正文）：** 1936年夏Jesse Citron在Soboba Hot Springs为患肺炎的Fields治疗，Fields曾高烧104华氏度、在河滨社区医院住院约25天；1937年Citron起诉追讨1.2万美元诊费，Fields反诉2.5万美元；1937年6月初审判Citron胜诉获赔1.2万美元；1937年11月Fields上诉、上诉法院令重审；1939年9月重审改判2000美元；1939年11月第三次审判动议被驳回。
+- **边界：** 该文只记"Jesse Citron，赫米特医生"，未说明其与Robert Citron的父子关系（关系由S035/S036确立）；"戒酒"是诉状一方主张而非判决认定；未获授权，仅链接与最小摘录。
+
+### S039｜FRED/BLS橙县失业率（新增，2026-09-05）
+
+- **支持：** C056
+- **定位：** LAUCN060590000000003A年度序列数据页。
+- **必要摘录：** 1993年6.8；1994年5.8（年度均值，百分比；另载1992年6.7、1995年5.1）。
+- **翻译：** 1993年橙县失业率年均6.8%，1994年5.8%。
+- **边界：** BLS LAUS现行修订序列；90年代当时发布的月度口径与此存在修订差异（如1994-01报道的1993年均值为6.3%），入稿用年度值或"约6%"级别表述，不写"年初7%→年底6%"。
