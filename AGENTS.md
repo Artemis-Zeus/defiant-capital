@@ -5,7 +5,7 @@
 ## 开始任务前
 
 1. 先阅读 `README.md` 与 `docs/project-spec.md`。
-2. 研究或写作任务再阅读 `docs/narrative-production-standard.md`；研究任务加读 `docs/source-collection-standard.md`；研究建档使用 `skills/research-capital-story/SKILL.md`，结构、口播稿使用 `skills/write-capital-story/SKILL.md`，观感评估使用 `skills/viewer-experience-review/SKILL.md`。
+2. 研究或写作任务再阅读 `docs/narrative-production-standard.md`；研究任务加读 `docs/source-collection-standard.md`；研究建档使用 `skills/research-capital-story/SKILL.md`，长视频叙事编排使用 `skills/story-video-craft/SKILL.md`，结构与口播稿落盘使用 `skills/write-capital-story/SKILL.md`，观感评估使用 `skills/viewer-experience-review/SKILL.md`。
 3. 若任务针对具体题材，再完整阅读该题材目录内的 brief、timeline、sources、claims、risk-review 和已有 script。
 4. 不要把仓库中不存在的信息当作事实；需要新事实时，先研究、建来源记录并更新证据矩阵。
 5. 保留用户已有内容和未完成笔记，不擅自删除或重写与本任务无关的资料。
@@ -18,7 +18,8 @@
 - 每个重要事实使用稳定的 `C###` 主张编号，并在 `04-claims.md` 中关联 `S###` 来源编号。
 - 外文来源必须记录原文、中文翻译、精确位置和上下文。
 - 严格区分：线索、待核验、已交叉验证、权威定论、存在争议。
-- 无法证实时写明“资料不足”或“尚存争议”，不得补造日期、数字、人物关系、动机或引语。
+- 无法证实时写明“资料不足”或“尚存争议”，不得补造日期、数字、人物关系或动机。
+- 允许使用模拟对白与剧情演绎作为叙事手段：演绎不是证据，不得改变事实的因果关系与已知时间顺序，不得把编造的话写成有出处的真实引语；私人关系与未证实动机仍不得虚构。
 - 当事人说法只能直接写成“某人声称/表示”，除非内容另有独立证据。
 - 所有直接引语在定稿前回查原文。
 - 只有授权明确允许公开归档或属于公有领域的第三方材料可以完整保存；其他材料只记录链接、必要摘录和精确定位。

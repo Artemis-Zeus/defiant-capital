@@ -5,13 +5,24 @@ description: Turn an evidence-complete Defiant Capital topic into a story outlin
 
 # Write a capital story
 
-Read `AGENTS.md`, `docs/editorial-standards.md`, `docs/narrative-production-standard.md`, and the target topic's README, brief, timeline, sources, claims, risk review, outline, and existing scripts.
+Read `AGENTS.md`, `docs/editorial-standards.md`, `docs/narrative-production-standard.md`, and the target topic's README, brief, timeline, sources, claims, risk review, outline, and existing scripts. When the task includes long-video story design, a new master draft, or a structural rewrite, also execute `skills/story-video-craft/SKILL.md` before writing either layer.
+
+## Confirm the story design
+
+Do not begin prose from a pile of facts. For a long-video task, first confirm in `05-story-outline.md`:
+
+1. One story contract and one narrative branch: person, organization/project, or crisis/ensemble.
+2. One continuous causal ledger whose rows bind to `C###` claims.
+3. One information-release map separating facts needed now, facts reserved for a supported reinterpretation, and facts that do not belong in the narration.
+4. One concrete opening anomaly, its resulting audience question, and the ending action or detail that changes the meaning of that opening.
+
+Use `skills/story-video-craft/SKILL.md` for the full method and quality gates. This skill controls how the approved design is stored and turned into the two repository text layers.
 
 ## Build the structure
 
 1. Write one story promise and one question the ending will answer.
-2. Choose one absolute protagonist. Give each major supporting character one observable function.
-3. Arrange the body around the protagonist's consecutive choices, not around institutions or financial terms.
+2. Choose one story carrier. In the person branch it is the absolute protagonist; in the organization/project branch it is the named project; in the crisis/ensemble branch it is the shared clock, place, and resource crisis. Give each major supporting character one observable function.
+3. Arrange the body around that carrier's consecutive choices or state changes, not around institutions or financial terms.
 4. Use the generic chain—success, credit, expansion, warning, irreversible choice, external change, relationship reversal, cost, fate—as a diagnostic only.
 5. Add only the background needed to answer who/what this is, how large it is, why the money matters, and why the choice was tempting at the time.
 6. Make each chapter contain an action, a changed situation, and a forward question.
@@ -22,7 +33,7 @@ Read `AGENTS.md`, `docs/editorial-standards.md`, `docs/narrative-production-stan
 
 ### Story outline (架构稿)
 
-Write or update `05-story-outline.md` first: chapter cards, information-release order, and the `[C###]` binding for every fact that enters the script. This is the fact-mapping layer; keep visible claim markers here.
+Write or update `05-story-outline.md` first: story contract, branch, causal ledger, information-release order, chapter cards, payoffs, and the `[C###]` binding for every fact that enters the script. This is the fact-mapping layer; keep visible claim markers here.
 
 ### Voiceover script (口播稿)
 

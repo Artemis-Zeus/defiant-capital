@@ -5,7 +5,7 @@
 向 AI 模型提供一个题材时，按以下顺序输入：
 
 1. 本文件和 `docs/editorial-standards.md`；
-2. `docs/narrative-production-standard.md`与对应项目skill；研究任务加读 `docs/source-collection-standard.md`；涉及抖音主站成片时加读 `docs/douyin-standard.md`；
+2. `docs/narrative-production-standard.md`与对应项目 skill；研究任务加读 `docs/source-collection-standard.md` 和 `skills/research-capital-story/SKILL.md`；长视频故事设计加读 `skills/story-video-craft/SKILL.md`；架构稿与口播稿落盘加读 `skills/write-capital-story/SKILL.md`；涉及抖音主站成片时加读 `docs/douyin-standard.md`；
 3. 题材目录中的 `README.md`；
 4. `01-brief.md`与`02-timeline.md`；
 5. `04-claims.md`；
@@ -33,8 +33,8 @@
 不要一次要求模型“从资料直接写完整爆款稿”。建议分为：
 
 1. 找证据缺口与相互矛盾之处；
-2. 提炼一句话故事承诺；
-3. 生成三种故事结构并说明取舍；
+2. 按 `skills/story-video-craft/SKILL.md` 完成写作门禁；
+3. 在人物、组织／项目、危机／群像中选择一个主分支，写故事合同、因果台账和信息释放图；
 4. 生成章节卡和每章证据编号（写入架构稿`05-story-outline.md`）；
 5. 按架构稿撰写口播稿（`script/master.md`）；
 6. 对照事实表逐句审计；
@@ -68,9 +68,11 @@
 ## 6. 写作提示词骨架
 
 ```text
+使用 $story-video-craft 和 $write-capital-story。
 你正在为“逆天的资本”撰写长视频口播稿（B 站、YouTube 与抖音精选共用）。
 目标风格：悬念故事为骨架，资本机制为内核，克制的黑色幽默为调味。
-先在架构稿（05-story-outline.md）确认章节结构与 [Cxxx] 事实绑定，再写口播稿：正文不出现编号，章末用引用块列出本章来源名称（不写URL）。
+先执行研究退出门禁；再选择唯一叙事分支，在架构稿（05-story-outline.md）完成故事合同、因果台账、信息释放图、章节结构与 [Cxxx] 事实绑定；最后写口播稿：正文不出现编号，章末用引用块列出本章来源名称（不写URL）。
 只使用给定资料；争议内容明确归因；证据不足处标记 [需要核验]。
-按主角连续选择组织章节；先输出章节结构、人物动作、局面变化与章末问题，再写口播正文。
+按唯一故事承载者的连续选择或状态变化组织章节；每章都写清动作、局面变化，以及由本章答案产生的下一项问题，再写口播正文。
+只吸收可迁移的结构、信息释放和声画分工方法，不复制任何参考创作者的措辞、口头禅、固定梗、标题句法、角色形象或声音身份。
 ```

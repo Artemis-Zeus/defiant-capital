@@ -70,6 +70,7 @@ inbox/                  # 尚未进入正式选题池的线索
 - [抖音主站内容规约](docs/douyin-standard.md)
 - [给 AI 模型的资料交接与写作约束](docs/ai-handoff.md)
 - [研究建档 skill](skills/research-capital-story/SKILL.md)
+- [长视频叙事编排 skill](skills/story-video-craft/SKILL.md)
 - [架构稿与口播稿 skill](skills/write-capital-story/SKILL.md)
 - [观感评估 skill](skills/viewer-experience-review/SKILL.md)
 - [权利与使用声明](LICENSE)
